@@ -9,7 +9,9 @@ UTILIZACIÓN:
   1º- Generar un archivo "TxT" con todas las direcciones ip que se desea cambiar la contraseña. Siendo este archivo de la siguiente forma:
   
   10.0.0.0
+  
   10.0.0.1
+  
   192.168.97.3
   ...
   
