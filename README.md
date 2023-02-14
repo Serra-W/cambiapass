@@ -10,4 +10,9 @@ UTILIZACIÓN:
   10.0.0.1
   192.168.97.3
   ...
+  
+  
+  
+  
+  
   2º- Ejecutar el script e insertar la información necesaria en cada input. (Nombre de usuario, contraseña antigua, contraseña nueva e ubicación del archivo de direcciones ip.
